@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://p9168247913.github.io/
 
-- 💬 Ask me about *HTML, JavaScript, CSS, Chakra UI, React.js, NodeJs, Redux, Cypress, Typescript, Vue.js*
+- 💬 Ask me about *HTML, JavaScript, CSS, Chakra UI, React.js, NodeJs, Redux, Cypress, Typescript, Vue.js, Angular, MongoDB*
 
 - 📫 How to reach me *pushkarajlolusare24@gmail.com*
 
