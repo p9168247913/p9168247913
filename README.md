@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkaraj Lolusare</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Maharashtra, India</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p9168247913&label=Profile%20views&color=0e75b6&style=flat" alt="p9168247913" /> </p>
 
